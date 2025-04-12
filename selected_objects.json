@@ -1,102 +1,51 @@
-[
-    {
-        "category": "1",
-        "object": "11"
-    },
-    {
-        "category": "2",
-        "object": "22"
-    },
-    {
-        "category": "3",
-        "object": "33"
-    },
-    {
-        "latitude": 51.490525,
-        "longitude": 31.306036
-    },
-    {
-        "category": "3",
-        "object": "32"
-    },
-    {
-        "latitude": 51.490546,
-        "longitude": 31.306056
-    },
-    {
-        "category": "2",
-        "object": "21"
-    },
-    {
-        "latitude": 51.490533,
-        "longitude": 31.30609
-    },
-    {
-        "category": "2",
-        "object": "22"
-    },
-    {
-        "latitude": 51.490546,
-        "longitude": 31.306056
-    },
-    {
-        "category": "3",
-        "object": "33"
-    },
-    {
-        "latitude": 51.490525,
-        "longitude": 31.306036
-    },
-    {
-        "category": "3",
-        "object": "33"
-    },
-    {
-        "latitude": 51.490525,
-        "longitude": 31.306036
-    },
-    {
-        "category": "2",
-        "object": "21"
-    },
-    {
-        "latitude": 51.490525,
-        "longitude": 31.306036
-    },
-    {
-        "category": "3",
-        "object": "32"
-    },
-    {
-        "latitude": 51.490525,
-        "longitude": 31.306036
-    },
-    {
-        "category": "3",
-        "object": "33"
-    },
-    {
-        "latitude": 51.490533,
-        "longitude": 31.30609
-    },
-    {
-        "category": "3",
-        "object": "33"
-    },
-    {
-        "latitude": 51.490496,
-        "longitude": 31.305962
-    },
-    {
-        "category": "1",
-        "object": "1"
-    },
-    {
-        "category": "2",
-        "object": "2"
-    },
-    {
-        "category": "3",
-        "object": "3"
-    }
-]
+{
+    "1002011329": [
+        {
+            "category": "\u0414\u0435\u0440\u0436\u0430\u0432\u043d\u0456 \u0431\u0443\u0434\u0456\u0432\u043b\u0456",
+            "object_code": "11",
+            "object_name": "\u0410\u0434\u043c\u0456\u043d\u0456\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u0430 \u0431\u0443\u0434\u0456\u0432\u043b\u044f",
+            "location": {
+                "latitude": 51.495868,
+                "longitude": 31.292899
+            },
+            "options": [
+                "7",
+                "3"
+            ],
+            "photo": "AgACAgIAAxkBAAIBlmf6rQn6imLJBKL_IB8TQ4d1w6ZMAAKJ9DEbX8LRS8yPuKt8M3uIAQADAgADeQADNgQ",
+            "date": "2025-04-12T18:58:44+00:00"
+        },
+        {
+            "category": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0456\u044f 4",
+            "object_code": "43",
+            "object_name": "\u041e\u0431'\u0454\u043a\u0442 43",
+            "location": {
+                "latitude": 51.495868,
+                "longitude": 31.292899
+            },
+            "options": [
+                "24"
+            ],
+            "photo": "AgACAgIAAxkBAAIBlmf6rQn6imLJBKL_IB8TQ4d1w6ZMAAKJ9DEbX8LRS8yPuKt8M3uIAQADAgADeQADNgQ",
+            "date": "2025-04-12T19:05:34+00:00"
+        }
+    ],
+    "1033950425": [
+        {
+            "category": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0456\u044f 2",
+            "object_code": "22",
+            "object_name": "\u041e\u0431'\u0454\u043a\u0442 22",
+            "location": {
+                "latitude": 51.497374,
+                "longitude": 31.291256
+            },
+            "options": [
+                "13",
+                "12",
+                "7"
+            ],
+            "photo": "AgACAgIAAxkBAAICSmf62eTJNgvP97LTo1aviYRxN0-9AAI-7DEb6XfZS3G1pTn-mGtTAQADAgADeQADNgQ",
+            "date": "2025-04-12T21:23:49+00:00"
+        }
+    ]
+}
